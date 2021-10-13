@@ -9,3 +9,11 @@ h1 {
 p {
     color: greenyellow;
 }
+
+.list_items{
+    text-align: center;
+    color: aqua;
+    font-style: italic;
+    margin-top: 10dp;
+    margin-bottom: 10dp;
+}
